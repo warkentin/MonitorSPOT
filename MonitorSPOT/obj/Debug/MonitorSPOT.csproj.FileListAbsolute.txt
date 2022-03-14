@@ -1,0 +1,24 @@
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\bin\Debug\MonitorSPOT.exe.config
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\bin\Debug\MonitorSPOT.exe
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\bin\Debug\MonitorSPOT.pdb
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.MainFrm.resources
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.Properties.Resources.resources
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.csproj.GenerateResource.cache
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.csproj.CoreCompileInputs.cache
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.exe
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.pdb
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.csprojAssemblyReference.cache
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.ManagFrm.resources
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.FaqFrm.resources
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\bin\Debug\MonitorSPOT.exe.config
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\bin\Debug\MonitorSPOT.exe
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\bin\Debug\MonitorSPOT.pdb
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.csproj.AssemblyReference.cache
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.FaqFrm.resources
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.MainFrm.resources
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.ManagFrm.resources
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.Properties.Resources.resources
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.csproj.GenerateResource.cache
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.csproj.CoreCompileInputs.cache
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.exe
+P:\Visual Studio\source\repos\MonitorSPOT\MonitorSPOT\obj\Debug\MonitorSPOT.pdb

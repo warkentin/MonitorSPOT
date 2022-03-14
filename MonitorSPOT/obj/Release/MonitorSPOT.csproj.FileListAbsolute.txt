@@ -1,0 +1,12 @@
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\bin\Release\MonitorSPOT.exe.config
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\bin\Release\MonitorSPOT.exe
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\bin\Release\MonitorSPOT.pdb
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.MainFrm.resources
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.Properties.Resources.resources
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.csproj.GenerateResource.cache
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.csproj.CoreCompileInputs.cache
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.exe
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.pdb
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.ManagFrm.resources
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.csprojAssemblyReference.cache
+C:\Users\mwarkentin\source\repos\MonitorSPOT\MonitorSPOT\obj\Release\MonitorSPOT.FaqFrm.resources
